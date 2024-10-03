@@ -1,1 +1,1 @@
-# Sql_Queries
+This repository contains a collection of SQL queries and database creation scripts that I used to practice and refine my skills in SQL. It covers various concepts such as database creation, manipulation, and querying using different SQL commands.
