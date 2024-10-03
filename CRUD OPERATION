@@ -1,4 +1,4 @@
-SQL Database and CRUD Operations Practice
+#  SQL Database and CRUD Operations Practice
 
 CREATE DATABASE ORG;
 SHOW DATABASES;
